@@ -14,7 +14,7 @@ module.exports = {
     siteDescription: `Totorials with Azure Tips`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@geduta`,
   },
   plugins: [
     {
