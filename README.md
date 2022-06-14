@@ -1,32 +1,7 @@
-<p align="center">
-  <a href="https://cara.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Starter Portfolio: Cara
-</h1>
 
-<p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Gatsby Starter Portfolio: Cara is released under the 0BSD license." />
-  </a>
-  <a href="https://github.com/sponsors/LekoArts">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/LekoArts">
-  </a>
-  <a href="https://www.lekoarts.de?utm_source=cara&utm_medium=Starter">
-    <img alt="Website" src="https://img.shields.io/badge/-website-blue">
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-  </a>
-</p>
+[**Website**](https://geduta.com)
 
-Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-cara).
-
-[**Demo Website**](https://cara.lekoarts.de)
-
-Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=cara&utm_medium=Starter).
+Cara theme. [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) 
 
 ## ✨ Features
 
@@ -35,8 +10,6 @@ Also be sure to check out other [Free & Open Source Gatsby Themes](https://theme
 - CSS Animations on Shapes
 
 ## 🚀 Getting Started
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/LekoArts/gatsby-starter-portfolio-cara)
 
 ### 1. **Create a Gatsby site.**
 
@@ -107,8 +80,3 @@ To learn more about Gatsby themes specifically, I recommend checking out the [th
 
 - **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _How-to Guides_ and _Reference_ items in the primary navigation.
 
-## 🌟 Supporting me
-
-Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
-
-Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts) or [GitHub Sponsor](https://github.com/sponsors/LekoArts)!
