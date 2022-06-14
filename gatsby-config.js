@@ -8,7 +8,7 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `George Duta Portfolio`,
-    siteTitleAlt: `geduta - Gatsby Starter Portfolio`,
+    siteTitleAlt: `GeDuta - Azure Tutorials`,
     siteHeadline: `George Duta tutorials`,
     siteUrl: `https://www.geduta.com`,
     siteDescription: `Totorials with Azure Tips`,
